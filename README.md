@@ -24,5 +24,3 @@ You have to be aware of two things though:
 Having late-loader.js as an inline script should be the fastest way to do it, since it saves one round-trip to the server.
 
 Have fun + best wishes!
---
-Tommy Derngren
